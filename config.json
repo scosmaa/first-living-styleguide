@@ -1,0 +1,7 @@
+{
+  "source":       ".",
+  "destination":  "../gh-pages",
+  "css": [
+    "public/styles.css"
+  ]
+}
